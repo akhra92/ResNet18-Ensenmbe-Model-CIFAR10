@@ -1,9 +1,8 @@
-```md
 # **Ensemble Model for Image Classification on CIFAR-10**  
 
 This repository implements **image classification** on the **CIFAR-10 dataset** using an **ensemble of ResNet18 models**. The model is built with **PyTorch** and leverages **timm** for efficient training.  
 
-## **🛠️ Setup & Requirements**  
+### **🛠️ Setup & Requirements**  
 The following dependencies were used:  
 - **Python** 3.9  
 - **PyTorch** 1.10.1 + CUDA 11.3  
@@ -15,22 +14,22 @@ To install the required packages, run:
 pip install -r requirements.txt
 ```  
 
-## **📊 Performance**  
+### **📊 Performance**  
 The ensemble model achieved a **testing accuracy of 97.26%** on the CIFAR-10 dataset.  
 
-## **🚀 Training the Model**  
+### **🚀 Training the Model**  
 To train the model, run:  
 ```sh
 python train.py
 ```  
 
-## **🎯 Testing the Model**  
+### **🎯 Testing the Model**  
 To evaluate the model on test data, run:  
 ```sh
 python test.py
 ```  
 
-## **📂 Project Structure**  
+### **📂 Project Structure**  
 ```
 Ensemble-CIFAR10/
 │── datasets/         # Dataset handling and preprocessing
@@ -42,8 +41,7 @@ Ensemble-CIFAR10/
 │── README.md         # Project documentation
 ```  
 
-## **📬 Contact**  
+### **📬 Contact**  
 For any questions or contributions, feel free to open an issue or reach out.  
 
-```
-
+---
