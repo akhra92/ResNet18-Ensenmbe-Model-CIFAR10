@@ -32,12 +32,8 @@ python test.py
 ### **📂 Project Structure**  
 ```
 ResNet-Ensemble-Model-CIFAR10/
-│── datasets/         # Dataset handling and preprocessing
-│── models/           # Model architecture definitions
-│── utils/            # Helper functions
 │── train.py          # Training script
 │── test.py           # Testing script
-│── requirements.txt  # List of dependencies
 │── README.md         # Project documentation
 ```  
 
