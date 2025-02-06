@@ -31,7 +31,7 @@ python test.py
 
 ### **📂 Project Structure**  
 ```
-Ensemble-CIFAR10/
+ResNet-Ensemble-Model-CIFAR10/
 │── datasets/         # Dataset handling and preprocessing
 │── models/           # Model architecture definitions
 │── utils/            # Helper functions
