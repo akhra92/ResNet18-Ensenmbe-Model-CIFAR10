@@ -10,7 +10,7 @@ The following dependencies were used:
 - **timm** 0.9.2  
 
 To install the required packages, run:  
-```sh
+```
 pip install -r requirements.txt
 ```  
 
@@ -19,13 +19,13 @@ The ensemble model achieved a **testing accuracy of 97.26%** on the CIFAR-10 dat
 
 ### **🚀 Training the Model**  
 To train the model, run:  
-```sh
+```
 python train.py
 ```  
 
 ### **🎯 Testing the Model**  
 To evaluate the model on test data, run:  
-```sh
+```
 python test.py
 ```  
 
@@ -36,8 +36,3 @@ ResNet-Ensemble-Model-CIFAR10/
 │── test.py           # Testing script
 │── README.md         # Project documentation
 ```  
-
-### **📬 Contact**  
-For any questions or contributions, feel free to open an issue or reach out.  
-
----
